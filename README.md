@@ -16,4 +16,4 @@ Make sure to install the following R packages:
 ```r
 install.packages(c("Rcpp", "lolog", "igraph", "tidyverse", "tidygraph", "ggraph", "statnet", "network", "LologExtension"))
 
-Run the "lolog test.r" file and you could see the results
+Run the "lolog test.r" file to see the results
